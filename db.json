@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "gym",
+      "time": "morning",
+      "reminder": true
+    },
+    {
+      "text": "TV",
+      "time": "free time",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Talk",
+      "time": "weekend",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "REACT",
+      "time": "EVERYDAY",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Timepass",
+      "time": "Never",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
